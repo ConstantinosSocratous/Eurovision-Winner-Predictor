@@ -1,5 +1,5 @@
 # Eurovision Winner Predictor
- Predict eurovision's 2023 winner based on previous data
+ Predict eurovision's winner based on previous data
 
 Used data from github repo -> eurovision-songs-audio-features
 
